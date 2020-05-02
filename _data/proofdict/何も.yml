@@ -1,0 +1,10 @@
+id: 01E7AV4PAHMRK42587VDKBRRYN
+description: ''
+expected: 何も
+patterns:
+  - なにも
+allows: []
+specs:
+  - from: なにも知らない
+    to: 何も知らない
+tags: []

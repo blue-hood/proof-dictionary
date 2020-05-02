@@ -1,0 +1,10 @@
+id: 01E7AV4PAM1CEK2Y4RH6BP5AH7
+description: ''
+expected: が欲しい
+patterns:
+  - がほしい
+allows: []
+specs:
+  - from: この本がほしい
+    to: この本が欲しい
+tags: []

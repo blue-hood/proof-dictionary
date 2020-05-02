@@ -1,0 +1,8 @@
+id: 01E7AV6KKP7M4QNJD4W086TYE3
+description: ''
+expected: メンバー$1
+patterns:
+  - '/メンバ([^ー])/'
+allows: []
+specs: []
+tags: []

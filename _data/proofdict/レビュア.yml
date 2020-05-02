@@ -1,0 +1,8 @@
+id: 01E7AV6KKMKN8S8BJYA2YRRP7V
+description: ''
+expected: レビュア
+patterns:
+  - /レビュアー|レビュワー|レビュワ|レビューアー|レビューア|レビューワー|レビューワ/
+allows: []
+specs: []
+tags: []

@@ -1,0 +1,10 @@
+id: 01E7AV4PA4R1500NFN0C653P45
+description: ''
+expected: 見てい$1
+patterns:
+  - /見て行(く|き)/
+allows: []
+specs:
+  - from: では、実際にどのように書くかの例を見て行きたいと思います。
+    to: では、実際にどのように書くかの例を見ていきたいと思います。
+tags: []

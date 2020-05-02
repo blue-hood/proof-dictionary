@@ -1,0 +1,8 @@
+id: 01E7AV6KMTKJRW73B27ZN6JFYR
+description: ''
+expected: アクションフォームBean
+patterns:
+  - /\bActionFormBean\b|\bActionFormBeans\b|\bActionForm Bean\b/
+allows: []
+specs: []
+tags: []

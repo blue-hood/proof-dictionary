@@ -1,0 +1,8 @@
+id: 01E7AV6KM1H8FHR9QJB8JWCDZC
+description: ''
+expected: Kyoto Tycoon
+patterns:
+  - /\bKyotoTycoon\b|Tokyo *Tycoon/
+allows: []
+specs: []
+tags: []

@@ -1,0 +1,8 @@
+id: 01E7AV6KM8132A9K547QNDC3M0
+description: ''
+expected: POPFile
+patterns:
+  - /\bPOPFile\b/i
+allows: []
+specs: []
+tags: []

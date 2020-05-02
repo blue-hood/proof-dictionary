@@ -1,0 +1,10 @@
+id: 01E7AV6CN92X5XAKSZRD7EF54V
+description: ''
+expected: Custom
+patterns:
+  - /Custome\b/i
+allows: []
+specs:
+  - from: WebVRをCustome Elementのタグを書くだけで出来るライブラリ
+    to: WebVRをCustom Elementのタグを書くだけで出来るライブラリ
+tags: []

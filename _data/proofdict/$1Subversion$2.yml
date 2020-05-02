@@ -1,0 +1,8 @@
+id: 01E7AV6KMDPS24N6AEJH62AMJW
+description: ''
+expected: $1Subversion$2
+patterns:
+  - '/(?:([^\/.])\bsubversion)|(?:subversion\b([^\/.]))/'
+allows: []
+specs: []
+tags: []

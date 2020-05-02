@@ -1,0 +1,8 @@
+id: 01E7AV6KKAQR271XMM3KQ3NN5E
+description: ''
+expected: アプレット
+patterns:
+  - /\bApplet\b/
+allows: []
+specs: []
+tags: []

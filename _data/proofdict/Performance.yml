@@ -1,0 +1,10 @@
+id: 01E7AV6CN953WJT76Y05XAMRGN
+description: ''
+expected: Performance
+patterns:
+  - /peformance/i
+allows: []
+specs:
+  - from: ブラウザ上でどうやって計測するかやPeformance Timelineなどの仕様について
+    to: ブラウザ上でどうやって計測するかやPerformance Timelineなどの仕様について
+tags: []

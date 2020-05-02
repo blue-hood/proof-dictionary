@@ -1,0 +1,12 @@
+id: 01E7AV6KKG3GY5DSKPBCGEBA5J
+description: ''
+expected: ディレクター
+patterns:
+  - /ディレクタ(?!ー)/
+allows: []
+specs:
+  - from: ディレクタ
+    to: ディレクター
+  - from: ディレクター
+    to: ディレクター
+tags: []

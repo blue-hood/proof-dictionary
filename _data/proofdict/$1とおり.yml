@@ -1,0 +1,12 @@
+id: 01E7AV4PAK4TYMR4KNYT562DM4
+description: ''
+expected: $1とおり
+patterns:
+  - /(思った|以下の)通り/
+allows: []
+specs:
+  - from: （例）思った通り。
+    to: （例）思ったとおり。
+  - from: 以下の通りです。
+    to: 以下のとおりです。
+tags: []

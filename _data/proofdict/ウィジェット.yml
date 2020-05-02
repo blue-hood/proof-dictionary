@@ -1,0 +1,8 @@
+id: 01E7AV6KKB9D5HD0517DKZCHEW
+description: ''
+expected: ウィジェット
+patterns:
+  - /\bWidget\b|\bwidget\b/
+allows: []
+specs: []
+tags: []

@@ -1,0 +1,8 @@
+id: 01E7AV6KM7FPQ93RZVHM093R7S
+description: ''
+expected: PHPUnit
+patterns:
+  - /\bPHPUnit\b/i
+allows: []
+specs: []
+tags: []

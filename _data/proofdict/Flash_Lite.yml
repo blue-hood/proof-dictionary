@@ -1,0 +1,8 @@
+id: 01E7AV6KKWSXTBFW3G3PWGP7QC
+description: ''
+expected: Flash Lite
+patterns:
+  - /\bFlashLite\b/
+allows: []
+specs: []
+tags: []

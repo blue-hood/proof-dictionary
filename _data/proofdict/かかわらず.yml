@@ -1,0 +1,12 @@
+id: 01E7AV4PA8THBHMWY05GA7SXVZ
+description: 漢字で書かず、ひらがなで書くと読みやすくなります
+expected: かかわらず
+patterns:
+  - /関わ?らず/
+allows: []
+specs:
+  - from: 関わらず
+    to: かかわらず
+  - from: 関らず
+    to: かかわらず
+tags: []

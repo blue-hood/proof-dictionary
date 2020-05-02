@@ -1,0 +1,8 @@
+id: 01E7AV6KMWEZF49MVSGKEH31K5
+description: ''
+expected: セッションBean
+patterns:
+  - /\bsession bean\b|\bSession Bean\b/
+allows: []
+specs: []
+tags: []

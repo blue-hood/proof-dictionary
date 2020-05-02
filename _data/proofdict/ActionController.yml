@@ -1,0 +1,8 @@
+id: 01E7AV6KKSH7X8DXABM2JYWFB3
+description: ''
+expected: ActionController
+patterns:
+  - /\bAction Controller\b/
+allows: []
+specs: []
+tags: []

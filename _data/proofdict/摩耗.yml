@@ -1,0 +1,8 @@
+id: 01E7AV4PAJSFG98CNGBNFMSKEW
+description: 「摩」は「こする」、「磨」は「磨く（みがく）」の意味
+expected: 摩耗
+patterns:
+  - 磨耗
+allows: []
+specs: []
+tags: []

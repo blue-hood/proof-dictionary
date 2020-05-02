@@ -1,0 +1,8 @@
+id: 01E7AV6KM7CP7NRE2S905H1T76
+description: ''
+expected: Photoshop
+patterns:
+  - /\bPhotoShop\b|\bphotoshop\b|フォトショップ/
+allows: []
+specs: []
+tags: []

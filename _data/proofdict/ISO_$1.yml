@@ -1,0 +1,8 @@
+id: 01E7AV6KKYR6E8XSK0J1TSBDT5
+description: ''
+expected: ISO $1
+patterns:
+  - '/ISO([0-9])/'
+allows: []
+specs: []
+tags: []

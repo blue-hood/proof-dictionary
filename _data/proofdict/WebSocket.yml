@@ -1,0 +1,8 @@
+id: 01E7AV6KK9JG0FY37C546AGGGF
+description: ''
+expected: WebSocket
+patterns:
+  - /\bWeb Socket\b/
+allows: []
+specs: []
+tags: []

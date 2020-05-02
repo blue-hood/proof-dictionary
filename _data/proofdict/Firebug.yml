@@ -1,0 +1,8 @@
+id: 01E7AV6KKWATFM16EW2FGMHW9R
+description: ''
+expected: Firebug
+patterns:
+  - /\bFirebug\b/i
+allows: []
+specs: []
+tags: []

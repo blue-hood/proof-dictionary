@@ -1,0 +1,8 @@
+id: 01E7AV6KMTVZZ55V77BGY0JVFH
+description: ''
+expected: アクションマッピング
+patterns:
+  - /Actionマッピング|\bAction Mapping\b/
+allows: []
+specs: []
+tags: []

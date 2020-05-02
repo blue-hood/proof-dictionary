@@ -1,0 +1,8 @@
+id: 01E7AV6KKWY0N7MEA2EZ9X140H
+description: ''
+expected: $1Facebook$2
+patterns:
+  - '/(?:([^\/.])\bfacebook)|(?:facebook\b([^\/.]))/'
+allows: []
+specs: []
+tags: []

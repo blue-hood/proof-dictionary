@@ -1,0 +1,10 @@
+id: 01E7AV6CN97775DTM23WQB7EYQ
+description: ''
+expected: webpack
+patterns:
+  - /\bwebpac(?!k)\b/
+allows: []
+specs:
+  - from: webpacのビルド速度改善についてのスライド
+    to: webpackのビルド速度改善についてのスライド
+tags: []

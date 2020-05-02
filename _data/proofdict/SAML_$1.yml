@@ -1,0 +1,8 @@
+id: 01E7AV6KMBRZ9GXHBMCNXGFFE3
+description: ''
+expected: SAML $1
+patterns:
+  - '/SAML([0-9])/'
+allows: []
+specs: []
+tags: []

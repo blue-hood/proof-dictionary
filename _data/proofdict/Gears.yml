@@ -1,0 +1,8 @@
+id: 01E7AV6KKWVWSAYJAER6YNZJAP
+description: ''
+expected: Gears
+patterns:
+  - /\bGoogleGears\b|\bGoogle Gears\b/
+allows: []
+specs: []
+tags: []

@@ -1,0 +1,8 @@
+id: 01E7AV6KMR0ZGSH8RRC7961QY5
+description: ''
+expected: $1Wikipedia$2
+patterns:
+  - '/(?:([^\/.])ウィキペディア)|(?:ウィキペディア([^\/.]))/'
+allows: []
+specs: []
+tags: []

@@ -1,0 +1,8 @@
+id: 01E7AV6KMH5VTJF24YSQ9X6D9V
+description: ''
+expected: xAuth
+patterns:
+  - /\bxAuth\b/i
+allows: []
+specs: []
+tags: []

@@ -1,0 +1,8 @@
+id: 01E7AV6KM2HYHGNECAYH50MMT8
+description: ''
+expected: MacPorts
+patterns:
+  - /\bMacPorts\b/i
+allows: []
+specs: []
+tags: []

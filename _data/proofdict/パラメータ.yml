@@ -1,0 +1,8 @@
+id: 01E7AV6KKJJ3BBKDAJBDMWHYPS
+description: ''
+expected: パラメータ
+patterns:
+  - /パラメタ|パラメーター/
+allows: []
+specs: []
+tags: []

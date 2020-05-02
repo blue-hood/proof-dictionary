@@ -1,0 +1,10 @@
+id: 01E7AV6KKADCNPKK37TM7D2B1M
+description: ''
+expected: O/Rマッ
+patterns:
+  - /ORマッ|O-Rマッ/
+allows: []
+specs:
+  - from: ORマッパ
+    to: O/Rマッパ
+tags: []

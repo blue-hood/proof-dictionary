@@ -1,0 +1,8 @@
+id: 01E7AV4PA7FE497FTEK3HMMTK8
+description: ひらがなで書かず、漢字で書くと読みやすくなります
+expected: 分かる
+patterns:
+  - わかる
+allows: []
+specs: []
+tags: []

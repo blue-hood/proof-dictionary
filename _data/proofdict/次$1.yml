@@ -1,0 +1,16 @@
+id: 01E7AV4PA80TV4ST3N1C7GSPPR
+description: 書籍の場合は、以下ではなく次を利用します（常に下にあるとは限らないため）
+expected: 次$1
+patterns:
+  - '/(?:以下|下記)(の|に)/'
+allows: []
+specs:
+  - from: 以下の
+    to: 次の
+  - from: 以下に
+    to: 次に
+  - from: 次回
+    to: 次回
+  - from: 下記の
+    to: 次の
+tags: []

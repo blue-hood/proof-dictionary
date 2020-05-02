@@ -42,3 +42,9 @@ Run following command in your local:
     npm test
 
 [_data/proofdict]: _data/proofdict "dictionary data directory"
+
+## Disclaimer
+
+The following software is included in this product: azu/prh.yml.
+A copy of the source code is downloaded from https://github.com/azu/prh.yml.git.
+This software contains [MIT license](https://github.com/azu/prh.yml#license).

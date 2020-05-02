@@ -1,0 +1,8 @@
+id: 01E7AV6KKEYQMVG1TYG01S1ZN8
+description: ''
+expected: サーブレット
+patterns:
+  - /\bServlet\b|\bSERVLET\b/
+allows: []
+specs: []
+tags: []

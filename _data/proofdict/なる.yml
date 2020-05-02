@@ -1,0 +1,8 @@
+id: 01E7AV4PA8ZQDV8CAMZEA9119Q
+description: 漢字で書かず、ひらがなで書くと読みやすくなります
+expected: なる
+patterns:
+  - 成る
+allows: []
+specs: []
+tags: []

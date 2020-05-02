@@ -1,0 +1,10 @@
+id: 01E7AV6CN96YCQWMW856AZ6JTF
+description: ''
+expected: Property
+patterns:
+  - /propety/i
+allows: []
+specs:
+  - from: propety
+    to: Property
+tags: []

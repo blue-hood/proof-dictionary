@@ -1,0 +1,8 @@
+id: 01E7AV6KMRR2F1MVF5H7SE1JMM
+description: ''
+expected: $1Wikimedia$2
+patterns:
+  - '/(?:([^\/.])Wikiメディア)|(?:Wikiメディア([^\/.]))/'
+allows: []
+specs: []
+tags: []

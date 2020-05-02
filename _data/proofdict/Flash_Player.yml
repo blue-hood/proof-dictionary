@@ -1,0 +1,10 @@
+id: 01E7AV6KKW2VYGVATBGBG72VRK
+description: ''
+expected: Flash Player
+patterns:
+  - >-
+    /Flashプレイヤー|Flash プレイヤー|Flashプレーヤ|Flash プレーヤ|Flashプレーヤー|Flash
+    プレーヤー|\bFlashPlayer\b/
+allows: []
+specs: []
+tags: []

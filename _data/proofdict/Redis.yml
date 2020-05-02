@@ -1,0 +1,8 @@
+id: 01E7AV6KM9MCFFM7HX2B82PBJF
+description: ''
+expected: Redis
+patterns:
+  - /\bRedis\b/i
+allows: []
+specs: []
+tags: []

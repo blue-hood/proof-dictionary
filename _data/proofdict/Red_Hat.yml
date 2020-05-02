@@ -1,0 +1,8 @@
+id: 01E7AV6KM934ZEJVS4Q1V671R3
+description: ''
+expected: Red Hat
+patterns:
+  - /\bRedHat\b|\bRedhat\b|\bredhat\b|\bRedHad\b|\bRedhad\b|\bredhad\b|レッドハット/
+allows: []
+specs: []
+tags: []

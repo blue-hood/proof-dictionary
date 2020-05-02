@@ -1,0 +1,8 @@
+id: 01E7AV6KMHQ24D9EYG6KNFR3B5
+description: ''
+expected: XML Schema
+patterns:
+  - /\bXML Schema\b/i
+allows: []
+specs: []
+tags: []

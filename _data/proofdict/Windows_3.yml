@@ -1,0 +1,8 @@
+id: 01E7AV6KMGF1TY4J4Z9QWBYZCQ
+description: ''
+expected: Windows 3.
+patterns:
+  - /Windows3\./
+allows: []
+specs: []
+tags: []

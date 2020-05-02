@@ -1,0 +1,12 @@
+id: 01E7AV6KMJ0C83Q4QH397Q8966
+description: ''
+expected: Yahoo!$1
+patterns:
+  - '/ヤフー([^!.])/'
+allows: []
+specs:
+  - from: Yahoo Mail
+    to: Yahoo Mail
+  - from: ヤフーメール
+    to: Yahoo!メール
+tags: []

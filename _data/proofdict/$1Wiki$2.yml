@@ -1,0 +1,8 @@
+id: 01E7AV6KMSNF7E3M1PSNBPWEZG
+description: ''
+expected: $1Wiki$2
+patterns:
+  - '/(?:([^\/.])ウィキ)|(?:ウィキ([^\/.]))/'
+allows: []
+specs: []
+tags: []

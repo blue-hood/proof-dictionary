@@ -1,0 +1,8 @@
+id: 01E7AV6KKEMMFDGAHH91ZZ8RWE
+description: ''
+expected: サーブレット/JSP
+patterns:
+  - /サーブレット／JSP|サーブレット＆JSP|サーブレット&JSP/
+allows: []
+specs: []
+tags: []

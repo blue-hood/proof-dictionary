@@ -1,0 +1,8 @@
+id: 01E7AV6KKYS80Y21C176N54P7R
+description: ''
+expected: iPhone
+patterns:
+  - /\biPhone\b/i
+allows: []
+specs: []
+tags: []

@@ -1,0 +1,8 @@
+id: 01E7AV6KM7JHG1JXVPQD13RWTK
+description: ''
+expected: Pentium III
+patterns:
+  - /Pentium 3|Pentium3/
+allows: []
+specs: []
+tags: []

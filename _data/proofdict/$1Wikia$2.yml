@@ -1,0 +1,8 @@
+id: 01E7AV6KMRM8M50QZTT5MP7NJ3
+description: ''
+expected: $1Wikia$2
+patterns:
+  - '/(?:([^.])Wikiア)|(?:Wikiア([^.]))/'
+allows: []
+specs: []
+tags: []

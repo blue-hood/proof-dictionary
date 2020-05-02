@@ -1,0 +1,14 @@
+id: 01E7AV6KK9ZH0WWZZ05SR9JJPN
+description: ''
+expected: Web$1
+patterns:
+  - '/WEB([^(\+DB)])/'
+allows: []
+specs:
+  - from: WEBサイト
+    to: Webサイト
+  - from: WEBでは
+    to: Webでは
+  - from: これはWEB+DBなのでセーフ
+    to: これはWEB+DBなのでセーフ
+tags: []

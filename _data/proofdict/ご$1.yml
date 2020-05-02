@@ -1,0 +1,12 @@
+id: 01E7AV4PABYF28QFXNG4H9H0PN
+description: ''
+expected: ご$1
+patterns:
+  - /御(覧|意見)/
+allows: []
+specs:
+  - from: 御覧ください
+    to: ご覧ください
+  - from: 御意見
+    to: ご意見
+tags: []

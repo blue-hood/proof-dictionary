@@ -1,0 +1,8 @@
+id: 01E7AV6KMANHQNXHWHX93XGTR6
+description: ''
+expected: Ruby $1
+patterns:
+  - '/Ruby([0-9])/'
+allows: []
+specs: []
+tags: []

@@ -1,0 +1,8 @@
+id: 01E7AV6KM7GGMN7NP0JRGC22WT
+description: ''
+expected: Perl $1
+patterns:
+  - '/Perl([0-9])/'
+allows: []
+specs: []
+tags: []

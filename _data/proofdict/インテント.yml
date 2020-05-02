@@ -1,0 +1,8 @@
+id: 01E7AV6KKBPB89YBZ08W6JR1C6
+description: ''
+expected: インテント
+patterns:
+  - /\bIntent\b/
+allows: []
+specs: []
+tags: []

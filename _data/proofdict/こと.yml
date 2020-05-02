@@ -1,0 +1,14 @@
+id: 01E7AV4PA7FGXRPG4FNGBGZQCR
+description: 漢字で書かず、ひらがなで書くと読みやすくなります
+expected: こと
+patterns:
+  - /(記|大|仕|当|工|見)?事(?!情|件|前|後|例|実|体|態|項|者)/
+allows: []
+specs:
+  - from: ある事
+    to: あること
+  - from: 記事
+    to: 記事
+  - from: 事件
+    to: 事件
+tags: []

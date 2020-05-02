@@ -1,0 +1,8 @@
+id: 01E7AV6KMEV9XAQ4PA7QCD8YX4
+description: ''
+expected: SWFファイル
+patterns:
+  - /\bSWFファイル\b/i
+allows: []
+specs: []
+tags: []

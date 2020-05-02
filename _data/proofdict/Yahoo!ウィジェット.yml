@@ -1,0 +1,10 @@
+id: 01E7AV6KMJMKC1BWXCVFGWZZT8
+description: ''
+expected: Yahoo!ウィジェット
+patterns:
+  - >-
+    /\bYahooWidget\b|Yahoo!Widget|Yahoo!
+    Widget|\bYahooGadget\b|Yahoo!Gadget|Yahoo! Gadget/
+allows: []
+specs: []
+tags: []

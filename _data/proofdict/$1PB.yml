@@ -1,0 +1,8 @@
+id: 01E7AV6KN0JP08ZG7SV2XGV054
+description: ''
+expected: $1PB
+patterns:
+  - '/([\d十百千万])Pバイト|([\d十百千万])ペタバイト/'
+allows: []
+specs: []
+tags: []

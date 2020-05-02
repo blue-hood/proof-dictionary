@@ -1,0 +1,8 @@
+id: 01E7AV6KM97BP9900XWTNR2A0E
+description: ''
+expected: RPCサービス
+patterns:
+  - /\bRPC Services\b/
+allows: []
+specs: []
+tags: []

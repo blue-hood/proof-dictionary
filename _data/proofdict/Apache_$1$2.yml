@@ -1,0 +1,8 @@
+id: 01E7AV6KKTGHZGGNDE4ZD3WQ8D
+description: ''
+expected: Apache $1$2
+patterns:
+  - '/Apache([0-9])|Apatch([0-9])/'
+allows: []
+specs: []
+tags: []

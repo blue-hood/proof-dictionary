@@ -1,0 +1,8 @@
+id: 01E7AV6KKXP22KGQ0CEG09HCG7
+description: ''
+expected: $1I/O
+patterns:
+  - '/([^\.\s])\bIO\b/'
+allows: []
+specs: []
+tags: []

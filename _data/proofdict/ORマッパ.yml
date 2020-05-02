@@ -1,0 +1,8 @@
+id: 01E7AV6KKART267PMMAJKDT6AR
+description: ''
+expected: O/Rマッパ
+patterns:
+  - /O\/Rマッパー|\bORM\b/
+allows: []
+specs: []
+tags: []

@@ -1,0 +1,8 @@
+id: 01E7AV6KKV1TAANR8F5KFN8EJN
+description: ''
+expected: DBFlute
+patterns:
+  - /\bDBFlute\b/i
+allows: []
+specs: []
+tags: []

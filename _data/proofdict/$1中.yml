@@ -1,0 +1,8 @@
+id: 01E7AV4PAGP39992FAQWPQRNNH
+description: ''
+expected: $1中
+patterns:
+  - /(世界|日)じゅう/
+allows: []
+specs: []
+tags: []

@@ -2,9 +2,9 @@
 
 This dictionary is for [proofdict](https://github.com/proofdict/proofdict).
 
-- Dictionary: <https://blue-hood.github.io/proof-dictionary/redirect/?type=dictionary>
-- Editor: <https://blue-hood.github.io/proof-dictionary/redirect/?type=editor>
-- JSON API: <https://blue-hood.github.io/proof-dictionary/redirect/?type=api>
+- Dictionary: <https://blue-hood.github.io/proof-dictionary>
+- Editor: <https://blue-hood.github.io/proof-dictionary/editor>
+- JSON API: <https://blue-hood.github.io/proof-dictionary/dictionary.json>
 
 ## Usage
 
@@ -12,9 +12,9 @@ This dictionary is for [proofdict](https://github.com/proofdict/proofdict).
 
 If you want to add new rule to your dictionary, you can add new rule by following steps: 
 
-Visit your [editor page](https://blue-hood.github.io/proof-dictionary/redirect/?type=editor):
+Visit your [editor page](https://blue-hood.github.io/proof-dictionary/editor):
 
-- <https://blue-hood.github.io/proof-dictionary/redirect/?type=editor>
+- <https://blue-hood.github.io/proof-dictionary/editor>
 
 ### Update dictionary
 

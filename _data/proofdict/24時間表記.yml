@@ -1,0 +1,20 @@
+id: 01E9G30AKRDS6YM5A82QT37S64
+description: 24時間表記のときは午前/午後をつけません。
+expected: $2
+patterns:
+  - /(am|pm|午前|午後)\s*(13|14|15|16|17|18|19|20|21|22|23|24)/i
+allows: []
+specs:
+  - from: 午前13時
+    to: 13時
+  - from: 午後24時
+    to: 24時
+  - from: am13
+    to: '13'
+  - from: PM 13
+    to: '13'
+  - from: 午前0時
+    to: 午前0時
+  - from: 午前12時
+    to: 午前12時
+tags: []

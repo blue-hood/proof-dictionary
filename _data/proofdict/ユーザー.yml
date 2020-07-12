@@ -1,0 +1,12 @@
+id: 01E7AV6KKPYPBD9XP2TC8ZW086
+description: ''
+expected: ユーザー
+patterns:
+  - /ユーザ(?!ー)/i
+allows: []
+specs:
+  - from: ユーザは
+    to: ユーザーは
+  - from: ユーザー
+    to: ユーザー
+tags: []

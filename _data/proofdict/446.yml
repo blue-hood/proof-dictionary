@@ -1,8 +1,8 @@
 id: 01E7AV6KKH0M1BF7GMPJ9J3NH7
 description: ''
-expected: テクノロジ
+expected: テクノロジー
 patterns:
-  - テクノロジー
+  - /テクノロジ(?!ー)/
 allows: []
 specs: []
 tags: []

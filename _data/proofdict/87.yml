@@ -1,8 +1,0 @@
-id: 01E7AV6KKVEB3K1EJ3G0Z1K856
-description: ''
-expected: Eclipse
-patterns:
-  - /\bEclipse\b/i
-allows: []
-specs: []
-tags: []

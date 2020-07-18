@@ -1,8 +1,0 @@
-id: 01E7AV6KKFYJPCQQRJ40S97MD2
-description: ''
-expected: $1ソフトウェア
-patterns:
-  - '/([^経])ソフトウエア/'
-allows: []
-specs: []
-tags: []

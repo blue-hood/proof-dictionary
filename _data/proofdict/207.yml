@@ -1,8 +1,0 @@
-id: 01E7AV6KMENSK3RBEQR05HTWBC
-description: ''
-expected: Tokyo Promenade
-patterns:
-  - /\bTokyoPromenade\b|Kyoto *Promenade/
-allows: []
-specs: []
-tags: []

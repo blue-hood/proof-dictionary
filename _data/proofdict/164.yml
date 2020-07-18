@@ -1,8 +1,0 @@
-id: 01E7AV6KM602CXZWJ10J8P9BAC
-description: ''
-expected: Pentium II
-patterns:
-  - /Pentium 2|Pentium2/
-allows: []
-specs: []
-tags: []

@@ -1,8 +1,0 @@
-id: 01E7AV6KKXK3F3WBA9GB24BBHC
-description: ''
-expected: GHCi
-patterns:
-  - /\bGHCi\b/i
-allows: []
-specs: []
-tags: []

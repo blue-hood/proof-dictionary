@@ -1,8 +1,0 @@
-id: 01E7AV6KKESX1DRCCMNS3292NH
-description: ''
-expected: コンテントプロバイダ
-patterns:
-  - /\bContent provider\b/
-allows: []
-specs: []
-tags: []

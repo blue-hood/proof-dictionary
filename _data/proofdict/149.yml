@@ -1,8 +1,0 @@
-id: 01E7AV6KM5AHEKDS2NAP2YGS97
-description: ''
-expected: MongoDB
-patterns:
-  - /\bMongo DB\b/
-allows: []
-specs: []
-tags: []

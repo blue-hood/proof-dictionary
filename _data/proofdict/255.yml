@@ -1,8 +1,0 @@
-id: 01E7AV6KKY8P9TDY0QHQDRC4QX
-description: ''
-expected: iOS SDK
-patterns:
-  - /\biOS SDK\b/i
-allows: []
-specs: []
-tags: []

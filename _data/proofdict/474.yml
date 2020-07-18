@@ -1,8 +1,0 @@
-id: 01E7AV6KKJCK4YBTM5CVYF6JEW
-description: ''
-expected: パーマリンク
-patterns:
-  - /\bPermalink\b|\bpermalink\b|\bpermanent link\b|パーマネントリンク/
-allows: []
-specs: []
-tags: []

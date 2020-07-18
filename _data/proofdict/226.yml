@@ -1,8 +1,0 @@
-id: 01E7AV6KMGJZTWQCMNXKS72M76
-description: ''
-expected: WebLogic
-patterns:
-  - /\bWeb Logic\b/
-allows: []
-specs: []
-tags: []

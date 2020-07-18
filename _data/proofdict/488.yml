@@ -1,8 +1,0 @@
-id: 01E7AV6KMTGTXPPZNGWWV8Y0F0
-description: ''
-expected: フォームBean
-patterns:
-  - /\bForm Bean\b|フォームビーン/
-allows: []
-specs: []
-tags: []

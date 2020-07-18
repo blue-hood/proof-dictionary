@@ -1,8 +1,0 @@
-id: 01E7AV6KM6TN15QFN0NBGFTDJK
-description: ''
-expected: OpenGL
-patterns:
-  - /\bOpen GL\b/
-allows: []
-specs: []
-tags: []

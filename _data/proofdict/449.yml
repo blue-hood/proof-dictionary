@@ -1,8 +1,0 @@
-id: 01E7AV6KKG9JMV2XEX2KNQ8HP6
-description: ''
-expected: ディスク
-patterns:
-  - /\bDisk\b/
-allows: []
-specs: []
-tags: []

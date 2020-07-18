@@ -1,8 +1,0 @@
-id: 01E7AV6KM2N19CYFG7JEAH2N7H
-description: ''
-expected: Maven
-patterns:
-  - /\bMaven\b/i
-allows: []
-specs: []
-tags: []

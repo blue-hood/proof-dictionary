@@ -1,8 +1,0 @@
-id: 01E7AV6KKWPZ9GT6XH68WRSGK0
-description: ''
-expected: Emacs $1
-patterns:
-  - '/Emacs([0-9])/'
-allows: []
-specs: []
-tags: []

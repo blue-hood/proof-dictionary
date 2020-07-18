@@ -1,8 +1,0 @@
-id: 01E7AV6KM8S7ZKDJTDBK3VASD5
-description: ''
-expected: Rails $1
-patterns:
-  - '/Rails([0-9])/'
-allows: []
-specs: []
-tags: []

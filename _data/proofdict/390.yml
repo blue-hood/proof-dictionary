@@ -1,8 +1,0 @@
-id: 01E7AV6KKC7G3QZRYQPXTN42FP
-description: ''
-expected: エンティティ
-patterns:
-  - /\bEntity\b|\bentity\b|エンティティー/
-allows: []
-specs: []
-tags: []

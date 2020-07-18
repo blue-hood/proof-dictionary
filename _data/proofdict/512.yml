@@ -1,8 +1,0 @@
-id: 01E7AV6KKRD09S5V2BMDNP8M92
-description: ''
-expected: マスタ$1
-patterns:
-  - '/マスター([^.])/'
-allows: []
-specs: []
-tags: []

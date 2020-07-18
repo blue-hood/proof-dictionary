@@ -1,8 +1,0 @@
-id: 01E7AV6KKMR3X88XYD417S40QW
-description: ''
-expected: ファイアウォール
-patterns:
-  - /ファイアーウォール|ファイヤーウォール|ファイヤウォール|ファイヤーウオール/
-allows: []
-specs: []
-tags: []

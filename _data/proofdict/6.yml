@@ -1,8 +1,0 @@
-id: 01E7AV6KKVBSYTD221SND8E90A
-description: ''
-expected: $1DeNA$2
-patterns:
-  - '/(?:([^\/.])\bDENA)|(?:DENA\b([^\/.]))/'
-allows: []
-specs: []
-tags: []

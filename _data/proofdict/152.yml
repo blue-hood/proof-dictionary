@@ -1,8 +1,0 @@
-id: 01E7AV6KM6QWY7DPVT2DMCYY76
-description: ''
-expected: Node.js
-patterns:
-  - /\bNode.js\b/i
-allows: []
-specs: []
-tags: []

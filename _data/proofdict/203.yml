@@ -1,8 +1,0 @@
-id: 01E7AV6KMDZ4DFE28XPBGYBRDX
-description: ''
-expected: SunRPC
-patterns:
-  - /\bSun RPC\b/
-allows: []
-specs: []
-tags: []

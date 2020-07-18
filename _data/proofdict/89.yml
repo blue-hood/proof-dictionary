@@ -1,8 +1,0 @@
-id: 01E7AV6KKWGE2MB4PXMYQKPN62
-description: ''
-expected: Emacs
-patterns:
-  - /\bEmacs\b/i
-allows: []
-specs: []
-tags: []

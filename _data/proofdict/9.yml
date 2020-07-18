@@ -1,8 +1,0 @@
-id: 01E7AV6KKX37R6W826WVJKV7YV
-description: ''
-expected: $1GitHub
-patterns:
-  - '/([^\/\.])\bgithub\b/'
-allows: []
-specs: []
-tags: []

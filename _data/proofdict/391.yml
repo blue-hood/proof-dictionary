@@ -1,8 +1,0 @@
-id: 01E7AV6KMWG1ES37RJ5ZDG25Q9
-description: ''
-expected: エンティティBean
-patterns:
-  - /\bEntity Bean\b|\bentity bean\b/
-allows: []
-specs: []
-tags: []

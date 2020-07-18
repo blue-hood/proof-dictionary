@@ -1,8 +1,0 @@
-id: 01E7AV6KM79C2P2N1S3WS524Q6
-description: ''
-expected: PHP $1
-patterns:
-  - '/PHP([0-9])/'
-allows: []
-specs: []
-tags: []

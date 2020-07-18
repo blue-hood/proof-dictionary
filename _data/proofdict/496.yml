@@ -1,8 +1,0 @@
-id: 01E7AV6KKMYE8E885PTWFACXN2
-description: ''
-expected: プレーン$1
-patterns:
-  - '/プレイン([^グ])/'
-allows: []
-specs: []
-tags: []

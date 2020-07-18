@@ -1,8 +1,0 @@
-id: 01E7AV6KMH2Z9WXQM985PY7WE0
-description: ''
-expected: Xcode
-patterns:
-  - /\bXcode\b/i
-allows: []
-specs: []
-tags: []

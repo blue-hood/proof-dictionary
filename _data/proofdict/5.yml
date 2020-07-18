@@ -1,8 +1,0 @@
-id: 01E7AV6KMKM1S3DNC1Y62RQ6FM
-description: ''
-expected: $1C2 Wiki$2
-patterns:
-  - '/(?:([^.])C2ウィキ)|(?:C2ウィキ([^.]))/'
-allows: []
-specs: []
-tags: []

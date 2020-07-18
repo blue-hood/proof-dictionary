@@ -1,8 +1,0 @@
-id: 01E7AV6KKWVCWNA38EYVZ311MR
-description: ''
-expected: Elisp
-patterns:
-  - /\bElisp\b/i
-allows: []
-specs: []
-tags: []

@@ -1,8 +1,0 @@
-id: 01E7AV6KKXA52888PRTP9W46H8
-description: ''
-expected: ImageMagick
-patterns:
-  - /\bImageMagick\b/i
-allows: []
-specs: []
-tags: []

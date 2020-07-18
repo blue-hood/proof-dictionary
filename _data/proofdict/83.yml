@@ -1,8 +1,0 @@
-id: 01E7AV6KKVMRTENFC2HPD01DT4
-description: ''
-expected: Dreamweaver
-patterns:
-  - /\bDreamWeaver\b/
-allows: []
-specs: []
-tags: []

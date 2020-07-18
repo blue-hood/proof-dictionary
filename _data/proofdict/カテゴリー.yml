@@ -1,8 +1,0 @@
-id: 01E7AV6KKCN8HWE5VZ0QSC5HAP
-description: ''
-expected: カテゴリー
-patterns:
-  - /カテゴリ(?!ー)/i
-allows: []
-specs: []
-tags: []

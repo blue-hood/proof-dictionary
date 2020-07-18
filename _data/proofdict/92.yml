@@ -1,8 +1,0 @@
-id: 01E7AV6KKWMZPSZGVWV8FS4BHQ
-description: ''
-expected: EventMachine
-patterns:
-  - /\bEventMachine\b/i
-allows: []
-specs: []
-tags: []

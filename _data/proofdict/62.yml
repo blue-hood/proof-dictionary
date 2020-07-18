@@ -1,8 +1,0 @@
-id: 01E7AV6KKTAS920BYQK4P37VVC
-description: ''
-expected: ActionScript Virtual Machine
-patterns:
-  - /\bActionScriptVirtualMachine\b|\bActionScript VirtualMachine\b/
-allows: []
-specs: []
-tags: []

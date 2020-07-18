@@ -1,8 +1,0 @@
-id: 01E7AV6KMD5B3MNTK530XP2N4J
-description: ''
-expected: Squid
-patterns:
-  - /\bSquid\b/i
-allows: []
-specs: []
-tags: []

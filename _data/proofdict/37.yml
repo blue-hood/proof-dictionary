@@ -1,8 +1,0 @@
-id: 01E7AV6KN096YS992551BVD08S
-description: ''
-expected: $1kbps
-patterns:
-  - '/([\d十百千万])\bKbps\b/'
-allows: []
-specs: []
-tags: []

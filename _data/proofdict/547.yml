@@ -1,8 +1,0 @@
-id: 01E7AV6KKR8WXDXCMEWH0PKNBV
-description: ''
-expected: ワンタイムURL
-patterns:
-  - /\bOnetime URL\b/
-allows: []
-specs: []
-tags: []

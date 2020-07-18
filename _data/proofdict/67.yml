@@ -1,8 +1,0 @@
-id: 01E7AV6KKTGYMMHYHX8EQNNBNW
-description: ''
-expected: ActiveSupport
-patterns:
-  - /\bActive Support\b/
-allows: []
-specs: []
-tags: []

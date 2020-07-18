@@ -1,8 +1,0 @@
-id: 01E7AV6KMFYF47EP9CA6XYNMB1
-description: ''
-expected: Unicode
-patterns:
-  - /\bunicode\b|ユニコード/
-allows: []
-specs: []
-tags: []

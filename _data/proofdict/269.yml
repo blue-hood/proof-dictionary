@@ -1,8 +1,0 @@
-id: 01E7AV6KM8FKB2K9ZE9200W8A3
-description: ''
-expected: pip
-patterns:
-  - /\bpip\b/i
-allows: []
-specs: []
-tags: []

@@ -1,8 +1,0 @@
-id: 01E7AV6KMD48JRTAZ533JCGFWG
-description: ''
-expected: SQLite
-patterns:
-  - /\bSQLite\b/i
-allows: []
-specs: []
-tags: []

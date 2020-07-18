@@ -1,8 +1,0 @@
-id: 01E7AV6KMHK0AWXPJZS93YQDVK
-description: ''
-expected: Windows XP
-patterns:
-  - /\bWindowsXP\b/
-allows: []
-specs: []
-tags: []

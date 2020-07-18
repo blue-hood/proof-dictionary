@@ -1,8 +1,0 @@
-id: 01E7AV6KM5Z2CQ48F30A5DAHJS
-description: ''
-expected: mixi
-patterns:
-  - /\bmixi\b/i
-allows: []
-specs: []
-tags: []

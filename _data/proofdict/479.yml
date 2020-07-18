@@ -1,8 +1,0 @@
-id: 01E7AV6KMJ13MMTSBAJQFQEAT1
-description: ''
-expected: ピアソン・エデュケーション$1
-patterns:
-  - '/ピアソンエデュケーション([^・])/'
-allows: []
-specs: []
-tags: []

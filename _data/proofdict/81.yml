@@ -1,8 +1,0 @@
-id: 01E7AV6KKV5WZBPB3163H54CMW
-description: ''
-expected: Cygwin
-patterns:
-  - /\bCygwin\b/i
-allows: []
-specs: []
-tags: []

@@ -1,8 +1,0 @@
-id: 01E7AV6KKV957G0YPQ2YV3H7S0
-description: ''
-expected: easy_install
-patterns:
-  - /\beasy_install\b/i
-allows: []
-specs: []
-tags: []

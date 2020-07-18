@@ -1,8 +1,0 @@
-id: 01E7AV6KMCN3KMXZKBM0E9QFJ3
-description: ''
-expected: SpiderMonkey
-patterns:
-  - /\bSpiderMonkey\b/i
-allows: []
-specs: []
-tags: []

@@ -1,8 +1,0 @@
-id: 01E7AV6KMBBWAQVDN7GBCJEPFQ
-description: ''
-expected: RubyGems
-patterns:
-  - /\bRuby Gems\b/
-allows: []
-specs: []
-tags: []

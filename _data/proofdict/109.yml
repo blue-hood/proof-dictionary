@@ -1,8 +1,0 @@
-id: 01E7AV6KKXKN183JHDP3CP15X5
-description: ''
-expected: HTML $1
-patterns:
-  - '/HTML([0-4])/'
-allows: []
-specs: []
-tags: []

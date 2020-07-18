@@ -1,8 +1,0 @@
-id: 01E7AV6KKRXG03V5ZBG5RZD9YS
-description: ''
-expected: デュアルコア
-patterns:
-  - /\bDual Core\b|デュアルCore|Dualコア/
-allows: []
-specs: []
-tags: []

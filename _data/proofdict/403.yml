@@ -1,8 +1,0 @@
-id: 01E7AV6KKDK4DAYXC5JK2NG781
-description: ''
-expected: クライアント／サーバ
-patterns:
-  - /クライアント\/サーバ|クライアント\/サーバー|クライアント・サーバ|クライアント・サーバー|クライアントサーバ|クライアントサーバー/
-allows: []
-specs: []
-tags: []

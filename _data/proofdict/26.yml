@@ -1,8 +1,0 @@
-id: 01E7AV6KMK3GJETQ4NWDSD4HHH
-description: ''
-expected: $1TiddlyWiki$2
-patterns:
-  - '/(?:([^.])ティドリーWiki)|(?:ティドリーWiki([^.]))/'
-allows: []
-specs: []
-tags: []

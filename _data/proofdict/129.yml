@@ -1,8 +1,0 @@
-id: 01E7AV6KKYAJ9HNQ5GGXRQRECD
-description: ''
-expected: Java $1
-patterns:
-  - '/Java([0-9])/'
-allows: []
-specs: []
-tags: []

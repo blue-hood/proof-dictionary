@@ -1,8 +1,0 @@
-id: 01E7AV6KKWAJN1THWHA3KNRPJG
-description: ''
-expected: Flex Builder
-patterns:
-  - /\bFlexBuilder\b/
-allows: []
-specs: []
-tags: []

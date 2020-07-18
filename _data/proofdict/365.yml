@@ -1,8 +1,0 @@
-id: 01E7AV6KMTZYG13N2EVGEFWW58
-description: ''
-expected: アクションフォーム
-patterns:
-  - /\bAction Form\b|\bActionForm\b/
-allows: []
-specs: []
-tags: []

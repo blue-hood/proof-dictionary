@@ -1,8 +1,0 @@
-id: 01E7AV6KMJTT928C19YTEJGTP2
-description: ''
-expected: オライリー・ジャパン$1
-patterns:
-  - '/オライリージャパン([^・])|オライリー([^・])/'
-allows: []
-specs: []
-tags: []

@@ -1,8 +1,0 @@
-id: 01E7AV6KM83GPP1DY1QZ0SBT8S
-description: ''
-expected: PostScript
-patterns:
-  - /\bPostScript\b/i
-allows: []
-specs: []
-tags: []

@@ -1,8 +1,0 @@
-id: 01E7AV6KMWW8RRSWCXREBS3AZS
-description: ''
-expected: ％$1
-patterns:
-  - '/%([^0123456789])/'
-allows: []
-specs: []
-tags: []

@@ -1,8 +1,0 @@
-id: 01E7AV6KMGMT7FCVY0P7VD5EW0
-description: ''
-expected: Windows NT
-patterns:
-  - /\bWindowsNT\b/
-allows: []
-specs: []
-tags: []

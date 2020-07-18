@@ -1,8 +1,0 @@
-id: 01E7AV6KMGD0VSDTABVPWRAFB8
-description: ''
-expected: Windows Me
-patterns:
-  - /\bWindowsMe\b|\bWindowsME\b/
-allows: []
-specs: []
-tags: []

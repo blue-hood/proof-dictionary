@@ -1,8 +1,0 @@
-id: 01E7AV6KKZCFYEER2CAX9HB9FT
-description: ''
-expected: Java SE $1
-patterns:
-  - '/Java SE([0-9])/'
-allows: []
-specs: []
-tags: []

@@ -1,8 +1,0 @@
-id: 01E7AV6KMFXCBRM3S4DTPYVSG6
-description: ''
-expected: Tritonn
-patterns:
-  - /\bTriton\b|\btriton\b|\btritonn\b/
-allows: []
-specs: []
-tags: []

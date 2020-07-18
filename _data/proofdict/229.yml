@@ -1,8 +1,0 @@
-id: 01E7AV6KMFZA1NNS2JBF6BWW93
-description: ''
-expected: Web API
-patterns:
-  - /\bWebAPI\b|\bWEBAPI\b|\bWEB API\b/
-allows: []
-specs: []
-tags: []

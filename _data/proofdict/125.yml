@@ -1,8 +1,0 @@
-id: 01E7AV6KKZYRM6HPE9PEYJCPNH
-description: ''
-expected: JavaBeans
-patterns:
-  - /\bJavaBean\b|\bJava Bean\b|\bJava Beans\b/
-allows: []
-specs: []
-tags: []

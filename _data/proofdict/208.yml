@@ -1,8 +1,0 @@
-id: 01E7AV6KMFWYA81GVX9B3QMQN0
-description: ''
-expected: Tokyo Tyrant
-patterns:
-  - /\bTokyoTyrant\b|Kyoto *Tyrant/
-allows: []
-specs: []
-tags: []

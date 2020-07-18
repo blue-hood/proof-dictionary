@@ -1,8 +1,0 @@
-id: 01E7AV6KKGTZSJYG3F9QP1JRNF
-description: ''
-expected: データサービス
-patterns:
-  - /\bData Services\b/
-allows: []
-specs: []
-tags: []

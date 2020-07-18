@@ -1,8 +1,0 @@
-id: 01E7AV6KKVJSYVA7CBQ8T4PRNB
-description: ''
-expected: Capistrano
-patterns:
-  - /\bCapistorano\b/
-allows: []
-specs: []
-tags: []

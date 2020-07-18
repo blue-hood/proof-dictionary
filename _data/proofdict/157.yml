@@ -1,8 +1,0 @@
-id: 01E7AV6KM67P7VR06AYKNKA4AB
-description: ''
-expected: OmniAuth
-patterns:
-  - /\bOmniAuth\b/i
-allows: []
-specs: []
-tags: []

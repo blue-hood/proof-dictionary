@@ -1,8 +1,0 @@
-id: 01E7AV6KMSYPY2E7ZC72RTRY88
-description: ''
-expected: $1WikiBase$2
-patterns:
-  - '/(?:([^\/.])ウィキベース)|(?:ウィキベース([^\/.]))/'
-allows: []
-specs: []
-tags: []

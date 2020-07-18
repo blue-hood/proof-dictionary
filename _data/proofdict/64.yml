@@ -1,8 +1,0 @@
-id: 01E7AV6KKTGW222SCYX00JJXVF
-description: ''
-expected: ActiveModel
-patterns:
-  - /\bActive Model\b/
-allows: []
-specs: []
-tags: []

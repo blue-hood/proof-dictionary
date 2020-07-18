@@ -1,8 +1,0 @@
-id: 01E7AV6KMFSHJZTPEMJ82MBVD0
-description: ''
-expected: Vimスクリプト
-patterns:
-  - /\bvim script\b/
-allows: []
-specs: []
-tags: []

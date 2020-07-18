@@ -1,8 +1,0 @@
-id: 01E7AV6KKXR0JE5K5DTD7459E1
-description: ''
-expected: Greasemonkey
-patterns:
-  - /\bGreaseMonkey\b|\bGrease monkey\b|\bGrease Monkey\b/
-allows: []
-specs: []
-tags: []

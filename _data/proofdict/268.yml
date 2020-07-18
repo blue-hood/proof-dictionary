@@ -1,8 +1,0 @@
-id: 01E7AV6KM8AK5WKTZEY7R0VANF
-description: ''
-expected: ping
-patterns:
-  - /\bping\b/i
-allows: []
-specs: []
-tags: []

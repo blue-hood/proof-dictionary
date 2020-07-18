@@ -1,8 +1,0 @@
-id: 01E7AV6KKXTT99QTGRH6YX47E6
-description: ''
-expected: Internet Explorer $1
-patterns:
-  - '/Internet Explorer([0-9])/'
-allows: []
-specs: []
-tags: []

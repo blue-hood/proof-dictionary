@@ -1,8 +1,0 @@
-id: 01E7AV6KKX72FWWVH74PT529JP
-description: ''
-expected: $1Gmail$2
-patterns:
-  - '/(?:([^\/.@])\bgmail)|(?:gmail\b([^\/.]))/'
-allows: []
-specs: []
-tags: []

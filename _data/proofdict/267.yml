@@ -1,8 +1,0 @@
-id: 01E7AV6CNA3DKGVM94GKSV6H6P
-description: ''
-expected: package.json
-patterns:
-  - packge.json
-allows: []
-specs: []
-tags: []

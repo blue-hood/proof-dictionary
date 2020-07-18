@@ -1,8 +1,0 @@
-id: 01E7AV6KKT7RGJEVP258T6B4B2
-description: ''
-expected: ActionScript $1
-patterns:
-  - '/ActionScript([0-9])/'
-allows: []
-specs: []
-tags: []

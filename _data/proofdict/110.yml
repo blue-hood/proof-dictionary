@@ -1,8 +1,0 @@
-id: 01E7AV6KKX38K0967A0KBABF7Y
-description: ''
-expected: Heartbeat
-patterns:
-  - /\bHeartbeat\b/i
-allows: []
-specs: []
-tags: []

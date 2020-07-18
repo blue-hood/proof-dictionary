@@ -1,8 +1,0 @@
-id: 01E7AV6KN0HXVSR6QHMFMDZN2V
-description: ''
-expected: $1MB
-patterns:
-  - '/([\d十百千万])Mバイト|([\d十百千万])メガバイト/'
-allows: []
-specs: []
-tags: []

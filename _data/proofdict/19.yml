@@ -1,8 +1,0 @@
-id: 01E7AV6KMKWQZ73T6BZ4DFA1H8
-description: ''
-expected: $1Nupedia$2
-patterns:
-  - '/(?:([^.])ヌーペディア)|(?:ヌーペディア([^.]))/'
-allows: []
-specs: []
-tags: []

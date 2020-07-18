@@ -1,8 +1,0 @@
-id: 01E7AV6KM2EN7HJETM1G158534
-description: ''
-expected: MacBook
-patterns:
-  - /\bMac Book\b/
-allows: []
-specs: []
-tags: []

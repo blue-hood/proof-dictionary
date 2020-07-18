@@ -1,8 +1,0 @@
-id: 01E7AV6KM0979JBPNX781JAZ78
-description: ''
-expected: JPEG
-patterns:
-  - /\bJPEG\b/i
-allows: []
-specs: []
-tags: []

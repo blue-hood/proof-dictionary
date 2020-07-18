@@ -1,8 +1,0 @@
-id: 01E7AV6KMA3NCEX4ZBCNZH6WNE
-description: ''
-expected: Ruby
-patterns:
-  - /\bRuby\b/i
-allows: []
-specs: []
-tags: []

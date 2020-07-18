@@ -1,8 +1,0 @@
-id: 01E7AV6KMBK8CKXAX3PZ8517T5
-description: ''
-expected: Silverlight
-patterns:
-  - /\bSilverLight\b|\bSilver Light\b/
-allows: []
-specs: []
-tags: []

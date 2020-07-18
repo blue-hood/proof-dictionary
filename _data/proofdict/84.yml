@@ -1,8 +1,0 @@
-id: 01E7AV6KKVXKGMN2TFN51CQ55J
-description: ''
-expected: ECMAScript
-patterns:
-  - /\bECMA Script\b/
-allows: []
-specs: []
-tags: []

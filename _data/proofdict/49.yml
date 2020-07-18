@@ -1,8 +1,0 @@
-id: 01E7AV6KN0TVX2Q7MHS8MSM0RP
-description: ''
-expected: $1ビット
-patterns:
-  - '/([\d十百千万])\bbit\b|([\d十百千万])\bBit\b/'
-allows: []
-specs: []
-tags: []

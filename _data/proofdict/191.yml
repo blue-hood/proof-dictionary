@@ -1,8 +1,0 @@
-id: 01E7AV6KMDTF3QDVJ1N0PZW4QG
-description: ''
-expected: SUSE
-patterns:
-  - /\bSUSE\b/i
-allows: []
-specs: []
-tags: []

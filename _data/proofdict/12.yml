@@ -1,8 +1,0 @@
-id: 01E7AV6KN06JYZZFQHGXHYP0TF
-description: ''
-expected: $1Hz
-patterns:
-  - '/([\d十百千万])\bhz\b|([\d十百千万])\bHZ\b/'
-allows: []
-specs: []
-tags: []

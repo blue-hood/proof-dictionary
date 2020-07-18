@@ -1,8 +1,0 @@
-id: 01E7AV6KMJMQFBABM7EE5JX2GB
-description: ''
-expected: $1qwikWeb$2
-patterns:
-  - '/(?:([^\/.])クイックWeb)|(?:クイックWeb([^\/.]))/'
-allows: []
-specs: []
-tags: []

@@ -1,8 +1,0 @@
-id: 01E7AV6KKNC5D3HQPXX7PYVGYH
-description: ''
-expected: ブロードキャストレシーバ
-patterns:
-  - /\bBroadcast receiver\b/
-allows: []
-specs: []
-tags: []

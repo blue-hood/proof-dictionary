@@ -1,8 +1,0 @@
-id: 01E7AV6KM5A415T48D9Q637508
-description: ''
-expected: memcached
-patterns:
-  - /\bmemcached\b/i
-allows: []
-specs: []
-tags: []

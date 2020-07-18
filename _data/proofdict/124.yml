@@ -1,8 +1,0 @@
-id: 01E7AV6KKY1CWVM075YT215QCW
-description: ''
-expected: Jade
-patterns:
-  - /\bJade\b/i
-allows: []
-specs: []
-tags: []

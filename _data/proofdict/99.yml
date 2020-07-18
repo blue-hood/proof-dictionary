@@ -1,8 +1,0 @@
-id: 01E7AV6KKW9WV2EJ8R19973AV1
-description: ''
-expected: Flashプラットフォーム
-patterns:
-  - /\bFlash Platform\b/
-allows: []
-specs: []
-tags: []

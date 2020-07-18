@@ -1,8 +1,0 @@
-id: 01E7AV6KKTN73CNABW6YPVTS2K
-description: ''
-expected: ActiveResource
-patterns:
-  - /\bActive Resource\b/
-allows: []
-specs: []
-tags: []

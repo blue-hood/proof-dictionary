@@ -1,8 +1,0 @@
-id: 01E7AV6KM52VJ2ETD5GPF8FG57
-description: ''
-expected: Migemo
-patterns:
-  - /\bMigemo\b/i
-allows: []
-specs: []
-tags: []

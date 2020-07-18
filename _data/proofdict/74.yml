@@ -1,8 +1,0 @@
-id: 01E7AV6KKV39QMW6577JCTR8WC
-description: ''
-expected: CakePHP $1
-patterns:
-  - '/CakePHP([0-9])/'
-allows: []
-specs: []
-tags: []

@@ -1,8 +1,0 @@
-id: 01E7AV6KKX846838N6899F7Y56
-description: ''
-expected: gzip
-patterns:
-  - /\bgzip\b/i
-allows: []
-specs: []
-tags: []

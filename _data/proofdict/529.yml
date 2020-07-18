@@ -1,8 +1,0 @@
-id: 01E7AV6KKP70DW0N6MVD34NCYH
-description: ''
-expected: リーダー$1
-patterns:
-  - '/リーダ([^ー])/'
-allows: []
-specs: []
-tags: []

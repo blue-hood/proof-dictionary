@@ -1,8 +1,0 @@
-id: 01E7AV6KKACGQNTMVDSD70KH2J
-description: ''
-expected: アクティビティ
-patterns:
-  - /\bActivity\b|アクティビティー/
-allows: []
-specs: []
-tags: []

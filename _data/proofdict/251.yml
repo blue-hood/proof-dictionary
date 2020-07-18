@@ -1,8 +1,0 @@
-id: 01E7AV6KMJPPCKAEQ6NXENR07M
-description: ''
-expected: ZIPファイル
-patterns:
-  - /\bZIPファイル\b/i
-allows: []
-specs: []
-tags: []

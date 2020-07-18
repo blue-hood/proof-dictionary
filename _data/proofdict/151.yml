@@ -1,8 +1,0 @@
-id: 01E7AV6KM5SN1PWZM1XVDBBMX0
-description: ''
-expected: Nagios $1
-patterns:
-  - '/Nagios([0-9])/'
-allows: []
-specs: []
-tags: []

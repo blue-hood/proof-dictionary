@@ -1,8 +1,0 @@
-id: 01E7AV6KKY332ZA3C929452YM9
-description: ''
-expected: Java EE
-patterns:
-  - /\bJavaEE\b/
-allows: []
-specs: []
-tags: []

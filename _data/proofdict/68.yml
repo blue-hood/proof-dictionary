@@ -1,8 +1,0 @@
-id: 01E7AV6KKT37ZG47FXXCS9S20R
-description: ''
-expected: Apache
-patterns:
-  - /\bapache\b|\bApatch\b|\bapatch\b/
-allows: []
-specs: []
-tags: []

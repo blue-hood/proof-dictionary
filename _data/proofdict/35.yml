@@ -1,8 +1,0 @@
-id: 01E7AV6KMHT67N7XDW1TX0K00Q
-description: ''
-expected: $1Word
-patterns:
-  - '/([^ースォ])ワード/'
-allows: []
-specs: []
-tags: []

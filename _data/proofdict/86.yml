@@ -1,8 +1,0 @@
-id: 01E7AV6KKVFPGEZZ2CSDCE3N01
-description: ''
-expected: EJB-JARファイル
-patterns:
-  - /\bEJB-JARファイル\b/i
-allows: []
-specs: []
-tags: []

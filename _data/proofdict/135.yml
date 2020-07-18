@@ -1,8 +1,0 @@
-id: 01E7AV6KKZ3B5KQ53CZ4C0NRVB
-description: ''
-expected: Javadoc
-patterns:
-  - /\bJavadoc\b/i
-allows: []
-specs: []
-tags: []

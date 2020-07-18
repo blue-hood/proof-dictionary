@@ -1,8 +1,0 @@
-id: 01E7AV6KM0FP6AYVWB6SFTBGBW
-description: ''
-expected: key-value
-patterns:
-  - /Key-Value|キーバリュー|キー・バリュー|キー／バリュー/
-allows: []
-specs: []
-tags: []

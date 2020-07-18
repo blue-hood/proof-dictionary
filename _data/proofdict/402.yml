@@ -1,8 +1,0 @@
-id: 01E7AV6KKC82YJZWTAHFJWVF9E
-description: ''
-expected: クエリ文字列
-patterns:
-  - /\bQueryString\b|\bQuery String\b|クエリストリング|クエリーストリング/
-allows: []
-specs: []
-tags: []

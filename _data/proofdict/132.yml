@@ -1,8 +1,0 @@
-id: 01E7AV6KKZKJ2CEQJYATNF8AD8
-description: ''
-expected: Java EE $1
-patterns:
-  - '/Java EE([0-9])/'
-allows: []
-specs: []
-tags: []

@@ -1,8 +1,0 @@
-id: 01E7AV6KMBT36WFQC9CDZJTK3H
-description: ''
-expected: Servlet $1
-patterns:
-  - '/Servlet([0-9])/'
-allows: []
-specs: []
-tags: []

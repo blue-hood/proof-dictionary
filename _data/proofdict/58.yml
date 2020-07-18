@@ -1,8 +1,0 @@
-id: 01E7AV6KKS75GGXAJ6E0E1DN82
-description: ''
-expected: ActionMailer
-patterns:
-  - /\bAction Mailer\b/
-allows: []
-specs: []
-tags: []

@@ -1,8 +1,0 @@
-id: 01E7AV4PA9MZH2VW487DMD63F8
-description: 漢字で書かず、ひらがなで書くと読みやすくなります
-expected: もっとも
-patterns:
-  - 最も
-allows: []
-specs: []
-tags: []

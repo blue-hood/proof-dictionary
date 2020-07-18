@@ -1,8 +1,0 @@
-id: 01E7AV6KM513F84BQ4PGR64WYJ
-description: ''
-expected: MySQL
-patterns:
-  - /\bMySQL\b/i
-allows: []
-specs: []
-tags: []

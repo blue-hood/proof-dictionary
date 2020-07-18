@@ -1,8 +1,0 @@
-id: 01E7AV6KM9E9E18ZRJ8S7W69D3
-description: ''
-expected: RFC $1
-patterns:
-  - '/RFC([0-9])/'
-allows: []
-specs: []
-tags: []

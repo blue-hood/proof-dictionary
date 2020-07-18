@@ -1,8 +1,0 @@
-id: 01E7AV6KMC8JQEGA1Z8S6M0J45
-description: ''
-expected: $1SourceForge
-patterns:
-  - '/([^\/.])\bsourceforge\b/'
-allows: []
-specs: []
-tags: []

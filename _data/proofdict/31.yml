@@ -1,8 +1,0 @@
-id: 01E7AV6KMQZRZM8HPZ1T6WKQR7
-description: ''
-expected: $1WikiWikiWeb$2
-patterns:
-  - '/(?:([^\/.])ウィキウィキWeb)|(?:ウィキウィキWeb([^\/.]))/'
-allows: []
-specs: []
-tags: []

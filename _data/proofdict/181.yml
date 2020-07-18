@@ -1,8 +1,0 @@
-id: 01E7AV6KM9V1Y3TN8ZVQWVCNP2
-description: ''
-expected: Red Hat Linux
-patterns:
-  - /\bRedHatLinux\b|\bRedHat Linux\b/
-allows: []
-specs: []
-tags: []

@@ -1,9 +1,0 @@
-id: 01E7AV6KN0VG8BYKYYC21CV0RP
-description: ''
-expected: $1kHz
-patterns:
-  - >-
-    /([\d十百千万])\bKHz\b|([\d十百千万])\bKhz\b|([\d十百千万])\bkhz\b|([\d十百千万])\bKHZ\b|([\d十百千万])\bkHZ\b/
-allows: []
-specs: []
-tags: []

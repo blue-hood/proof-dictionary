@@ -1,8 +1,0 @@
-id: 01E7AV6KMF2MQMED3ZCMYTP6R4
-description: ''
-expected: Ubuntu
-patterns:
-  - /\bubuntu\b|\bUbuntsu\b|\bubuntsu\b|\bUbuntu Linux\b/
-allows: []
-specs: []
-tags: []

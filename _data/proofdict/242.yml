@@ -1,8 +1,0 @@
-id: 01E7AV6KMH9KBCSPDAXRG25S1X
-description: ''
-expected: Windows Vista
-patterns:
-  - /\bWindowsVista\b/
-allows: []
-specs: []
-tags: []

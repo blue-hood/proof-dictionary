@@ -1,8 +1,0 @@
-id: 01E7AV6KMC0BBZJ6HBG9B1NPWY
-description: ''
-expected: $1Smalltalk$2
-patterns:
-  - '/(?:([^\/.])スモールトーク)|(?:スモールトーク([^\/.]))/'
-allows: []
-specs: []
-tags: []

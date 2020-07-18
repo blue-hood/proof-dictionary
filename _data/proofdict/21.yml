@@ -1,8 +1,0 @@
-id: 01E7AV6KMKM4T434GWTJ0BM390
-description: ''
-expected: $1SearchWiki$2
-patterns:
-  - '/(?:([^.])サーチWiki)|(?:サーチWiki([^.]))/'
-allows: []
-specs: []
-tags: []

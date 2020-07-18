@@ -1,8 +1,0 @@
-id: 01E7AV6KMFGKPRRMJ7PM4N6ACF
-description: ''
-expected: VMware
-patterns:
-  - /\bVMware\b/i
-allows: []
-specs: []
-tags: []

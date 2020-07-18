@@ -1,8 +1,0 @@
-id: 01E7AV6KKT9XHRF03C85PH84TG
-description: ''
-expected: ActiveRecord
-patterns:
-  - /\bActive Record\b/
-allows: []
-specs: []
-tags: []

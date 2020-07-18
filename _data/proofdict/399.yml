@@ -1,8 +1,0 @@
-id: 01E7AV6KKR5KF7DB508M6A1SQ6
-description: ''
-expected: クアッドコア
-patterns:
-  - /クァッドコア|\bQuad Core\b|クァッドCore|Quadコア/
-allows: []
-specs: []
-tags: []

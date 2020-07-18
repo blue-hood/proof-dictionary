@@ -1,8 +1,0 @@
-id: 01E7AV6KM1V2TWGYYAQKBWH0YX
-description: ''
-expected: Mac OS
-patterns:
-  - /\bMacOS\b/
-allows: []
-specs: []
-tags: []

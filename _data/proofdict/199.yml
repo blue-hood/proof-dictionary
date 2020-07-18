@@ -1,8 +1,0 @@
-id: 01E7AV6KMCRQ0HW5E1J6HBS09E
-description: ''
-expected: Socket.IO
-patterns:
-  - /\bSocket.IO\b/i
-allows: []
-specs: []
-tags: []

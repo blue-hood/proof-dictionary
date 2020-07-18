@@ -1,8 +1,0 @@
-id: 01E7AV6KM0WAB534GKCQXXKRNK
-description: ''
-expected: KitchenSink
-patterns:
-  - /\bKitchenSink\b/i
-allows: []
-specs: []
-tags: []

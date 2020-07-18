@@ -1,8 +1,0 @@
-id: 01E7AV6KKG4RJR7N4AYEF6PBM2
-description: ''
-expected: ツイート
-patterns:
-  - /\btweet\b|\bTweet\b|ツィート/
-allows: []
-specs: []
-tags: []

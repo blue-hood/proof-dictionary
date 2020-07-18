@@ -1,8 +1,0 @@
-id: 01E7AV4PA63XZVNW7M4BFK0X7Z
-description: 漢字で書かず、ひらがなで書くと読みやすくなります
-expected: すべて
-patterns:
-  - 全て
-allows: []
-specs: []
-tags: []

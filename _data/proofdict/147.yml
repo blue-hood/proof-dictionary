@@ -1,8 +1,0 @@
-id: 01E7AV6KM229FV0A6818E0FNF9
-description: ''
-expected: MeCab
-patterns:
-  - /\bMeCab\b/i
-allows: []
-specs: []
-tags: []

@@ -1,8 +1,0 @@
-id: 01E7AV6KKW7G1PHB50EPH6NBYQ
-description: ''
-expected: Lisp
-patterns:
-  - /\bLisp\b/i
-allows: []
-specs: []
-tags: []

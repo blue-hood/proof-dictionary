@@ -1,8 +1,0 @@
-id: 01E7AV6KM5B7H26WED94Y438CW
-description: ''
-expected: $1Microsoft$2
-patterns:
-  - '/(?:([^\/.])\bmicrosoft)|(?:microsoft\b([^\/.]))/'
-allows: []
-specs: []
-tags: []

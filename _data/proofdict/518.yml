@@ -1,8 +1,0 @@
-id: 01E7AV6KKPXSZ4M8S07C77D94Z
-description: ''
-expected: メーリングリスト
-patterns:
-  - /\bML\b/
-allows: []
-specs: []
-tags: []

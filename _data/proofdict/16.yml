@@ -1,8 +1,0 @@
-id: 01E7AV6KMMA62GH72RG8Q4ZQ9R
-description: ''
-expected: $1MeatballWiki$2
-patterns:
-  - '/(?:([^.])ミートボールWiki)|(?:ミートボールWiki([^.]))/'
-allows: []
-specs: []
-tags: []

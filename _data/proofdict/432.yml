@@ -1,8 +1,0 @@
-id: 01E7AV6KKSDQRTPW9TRDM31F5D
-description: ''
-expected: スレーブ$1
-patterns:
-  - '/スレイブ([^.])|\bSlave\b([^.])/'
-allows: []
-specs: []
-tags: []
